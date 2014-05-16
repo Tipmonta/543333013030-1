@@ -1,7 +1,6 @@
 package com.rmuti.Sorting;
 
 public class Sorting {
-	
 	private int[] ArraySorting = new int[50];
 
 	private int ArraySortSize = 10;
@@ -208,5 +207,6 @@ public class Sorting {
 
 			newArray.InsertionSort();
 
-}
+			      }
+
 }
